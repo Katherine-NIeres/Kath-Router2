@@ -1,0 +1,12 @@
+a {
+  color: rgb(250, 244, 244);
+  text-decoration: none;
+}
+.active {
+  font-weight: 500;
+  color: rgb(43, 4, 53);
+  text-decoration: none;
+}
+body{
+  background-color: rgb(217, 195, 238);
+}
